@@ -1,20 +1,24 @@
 {
   "main": {
-    "id": "7b793816d23c7d05",
+    "id": "1dc2adf8f2a22eb2",
     "type": "split",
     "children": [
       {
-        "id": "f9aa60f9699f443f",
+        "id": "cb1618dcfcc879b9",
         "type": "tabs",
         "children": [
           {
-            "id": "b548e3f49761ff1a",
+            "id": "62e3191ba19499f9",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "摘抄本/生词本.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "生词本"
             }
           }
         ]
@@ -23,33 +27,44 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "36883a0dd890aadc",
+    "id": "2f853fe69b3f3116",
     "type": "split",
     "children": [
       {
-        "id": "27a88da1b223d6ee",
+        "id": "dedad4a52aa87962",
         "type": "tabs",
-        "dimension": 24.03846153846154,
         "children": [
           {
-            "id": "7569597966c86526",
+            "id": "3b765c59d937b6ed",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "1eba10c9284bdced",
             "type": "leaf",
             "state": {
               "type": "search",
               "state": {
                 "query": "",
                 "matchingCase": false,
-                "explainSearch": true,
+                "explainSearch": false,
                 "collapseAll": false,
                 "extraContext": false,
-                "sortOrder": "byCreatedTimeReverse"
+                "sortOrder": "alphabetical"
               },
               "icon": "lucide-search",
               "title": "Search"
             }
           },
           {
-            "id": "366372991e7a9040",
+            "id": "ef5f7c44ec6eebba",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -58,48 +73,30 @@
               "title": "Bookmarks"
             }
           }
-        ]
-      },
-      {
-        "id": "5cddf796add1364e",
-        "type": "tabs",
-        "dimension": 75.96153846153847,
-        "children": [
-          {
-            "id": "4879eced09a10136",
-            "type": "leaf",
-            "state": {
-              "type": "file-explorer",
-              "state": {
-                "sortOrder": "byCreatedTimeReverse"
-              },
-              "icon": "lucide-folder-closed",
-              "title": "Files"
-            }
-          }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 211.5
+    "width": 300
   },
   "right": {
-    "id": "667d5636990656b4",
+    "id": "debe967820645286",
     "type": "split",
     "children": [
       {
-        "id": "10b03dbeeae1a19d",
+        "id": "c19ff72d00a2eabb",
         "type": "tabs",
         "children": [
           {
-            "id": "844e37cd2e641078",
+            "id": "c3ae2f1ea9b5c49a",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "沙海拾金/核心能力/核心能力 - 房屋布局表述1.md",
+                "file": "【文章目录】/【0 - 总类】/000 - 特藏 - 致读者/致你们.md",
                 "collapseAll": true,
-                "extraContext": false,
+                "extraContext": true,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
@@ -107,11 +104,11 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 核心能力 - 房屋布局表述1"
+              "title": "Backlinks for 致你们"
             }
           },
           {
-            "id": "727ef7e1831ef234",
+            "id": "55f035b582ef7553",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -124,7 +121,7 @@
             }
           },
           {
-            "id": "bf225de6acac63ea",
+            "id": "e1d81c3f5c2852a5",
             "type": "leaf",
             "state": {
               "type": "all-properties",
@@ -142,7 +139,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 262.5
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -153,54 +150,36 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "4879eced09a10136",
+  "active": "1eba10c9284bdced",
   "lastOpenFiles": [
-    "【文章目录】/【10 - 专题类】/杂论/取名 - 牛姓.md",
-    "【文章目录】/【4 - 应用科学】/420 - 家政/428 - 育儿/取名 2.md",
-    "【文章目录】/【4 - 应用科学】/420 - 家政/428 - 育儿/取名 1.md",
-    "【文章目录】/【5 - 社会科学】/520 - 教育/家庭教育/好光棍.md",
-    "【文章目录】/【5 - 社会科学】/520 - 教育/家庭教育/好作业.md",
-    "【文章目录】/【7 - 世界史地】/740 - 欧洲史地/748 - 俄罗斯/大数定理.md",
-    "【文章目录】/【1 - 哲学类】/160 - 形而上学/165 - 价值论/世界观/多事.md",
-    "【文章目录】/【5 - 社会科学】/590 - 军事/595 - 军事技术/军事兵器/热兵器/军舰/和平精英.md",
-    "【文章目录】/【4 - 应用科学】/490 - 商学/494 - 企业管理/白得罪.md",
-    "【文章目录】/【1 - 哲学类】/190 - 伦理学/198 - 职业伦理/态度与伦理/流言蜚语.md",
-    "【文章目录】/【6 - 中国史地】/630 - 中国文化史/儒道.md",
-    "待归档/什么自信.md",
-    "待归档/没家教和不礼貌.md",
-    "待归档/大麻烦.md",
     "摘抄本/句子摘录.md",
-    "README.md",
-    "【本周更新】/纯粹感性批判.md",
-    "摘抄本/比喻摘录.md",
-    "【本周更新】/无可妥协.md",
-    "【本周更新】/白加黑.md",
-    "【本周更新】/祝融游戏.md",
-    "【本周更新】/经久不衰.md",
-    "【本周更新】/轨道爬升.md",
-    "【本周更新】/问道于盲.md",
-    "md/2024-11-14什么是文字的张力？.md",
-    "【文章目录】/【8 - 语言文学类】/810 - 文学总论/文字张力.md",
-    "md",
-    "Untitled.canvas",
-    "md/Nel",
-    "爱的原理",
-    "md/N",
-    "md/Nell",
-    "md/N",
-    "【文章目录】/【2 - 信仰类】/神学评论区",
-    "爱发电/南斗集",
-    "爱发电",
-    "爱发电/会员专享",
-    "转载授权/1-鼓励利用我的内容盈利.jpeg",
-    "转载授权/2-授权条款更新.png",
-    "_附件/Screenshot 2022-12-02 at 11.01.55.png",
-    "_附件/Screen Shot 2022-06-10 at 19.46.07.png",
-    "_附件/Screen Shot 2022-06-10 at 19.46.01.png",
-    "待移除/_附件/Screen Shot 2022-06-10 at 19.46.07.png",
-    "待移除/_附件/Screenshot 2022-12-02 at 11.01.55.png",
-    "待移除/_附件/Screenshot 2022-12-31 at 07.25.12.png",
-    "待移除/_附件/Screenshot 2022-12-31 at 07.25.21.png",
-    "待移除/_附件/Screenshot 2022-12-31 at 07.25.27.png"
+    "待归档/比特币 4.md",
+    "待归档/无道人.md",
+    "待归档/无道人.md",
+    "【文章目录】/【9 - 艺术类】/980 - 戏剧/惊奇队长2.md",
+    "【文章目录】/【7 - 世界史地】/740 - 欧洲史地/740 - 欧洲史地总论/北溪2.md",
+    "【文章目录】/【5 - 社会科学】/590 - 军事/590 - 军事总论/战争/马来西亚打新加坡.md",
+    "【文章目录】/【5 - 社会科学】/570 - 政治/578 - 国际关系/好牛二 2.md",
+    "【文章目录】/【5 - 社会科学】/590 - 军事/590 - 军事总论/战争/不存在的如果 2.md",
+    "【文章目录】/【5 - 社会科学】/570 - 政治/578 - 国际关系/仁爱礁.md",
+    "【文章目录】/【5 - 社会科学】/570 - 政治/578 - 国际关系/三缺一 2.md",
+    "【文章目录】/【5 - 社会科学】/560 - 财政/561 - 货币 & 金融/向上发展 3.md",
+    "【文章目录】/【5 - 社会科学】/540 - 社会学/546 - 社会阶层及组织/阶层与阶级 1.md",
+    "【文章目录】/【5 - 社会科学】/540 - 社会学/546 - 社会阶层及组织/阶层与阶级 2.md",
+    "【文章目录】/【5 - 社会科学】/540 - 社会学/542 - 社会问题/平权主义/同性恋出路.md",
+    "【文章目录】/【5 - 社会科学】/540 - 社会学/542 - 社会问题/平权主义/同性恋出路 2.md",
+    "【文章目录】/【5 - 社会科学】/520 - 教育/家庭教育/三面围堵.md",
+    "【文章目录】/【5 - 社会科学】/520 - 教育/家庭教育/三面围堵 2.md",
+    "【文章目录】/【5 - 社会科学】/520 - 教育/家庭教育/制赌.md",
+    "【文章目录】/【5 - 社会科学】/520 - 教育/家庭教育/不道歉的小朋友 2.md",
+    "【文章目录】/【5 - 社会科学】/520 - 教育/家庭教育/制赌 2.md",
+    "【文章目录】/【5 - 社会科学】/520 - 教育/家庭教育/子女的要求.md",
+    "【文章目录】/【5 - 社会科学】/520 - 教育/家庭教育/子女的要求 2.md",
+    "【文章目录】/【5 - 社会科学】/520 - 教育/家庭教育/孰强孰弱.md",
+    "【文章目录】/【5 - 社会科学】/520 - 教育/家庭教育/孰强孰弱 2.md",
+    "【文章目录】/【5 - 社会科学】/520 - 教育/家庭教育/永远忐忑.md",
+    "待更新/【本周更新】",
+    "待更新",
+    "untitled folder"
   ]
 }
